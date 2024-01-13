@@ -1,0 +1,13 @@
+understanding the DOM and making dynamic websites
+understanding reconciliation and how react works under the hood
+React as a Wrapper
+Components,state,Rendering and props
+hooks
+Create Your own Set of Custom hooks
+Prop Drilling,Context API and supense API
+State Management tools
+Routing
+Styling
+
+performance improvements or common libraries
+Testing
