@@ -1,0 +1,28 @@
+What is React?
+React is a JavaScript library for building user interfaces, particularly for single-page applications where the user interface needs to update dynamically as the user interacts with the application
+
+What is a library?
+a library is a collection of pre-written code or routines that can be reused by different programs or applications.
+
+What is a single page application?
+A Single Page Application (SPA) is a type of web application or website that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from the server
+
+What is a component ?
+In React, a component is a reusable, self-contained piece of code that defines a part of a user interface. React applications are built by combining and nesting components to create the overall structure of the application
+
+What is DOM?
+DOM stands for Document Object Model. It is a programming interface for web documents and represents the structure of a document as a tree of objects
+
+What is React Virtual DOM?
+The React Virtual DOM (Document Object Model) is a concept and optimization technique used by React to improve the efficiency of updating the user interface. React maintains a virtual representation of the DOM in memory, known as the Virtual DOM. Instead of directly manipulating the actual DOM for every change, React makes changes to this virtual representation and then calculates the most efficient way to update the real DOM.
+
+What does a web application or a website(composed of) have?
+Frontend (Client-Side)
+Backend (Server-Side)
+Database
+Communication
+Authentication and Authorization
+User Interface (UI)
+Web Servers and Hosting
+Testing
+Security
